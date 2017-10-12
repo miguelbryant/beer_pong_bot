@@ -1,0 +1,9 @@
+{
+
+    "debug" : false, 
+    "use_spreadsheet" : false,
+    "service_credentials" : "client_secret.json", 
+
+    "bot_id" : "get this from GroupMe",
+    "listening_port" : 2200
+}
