@@ -1,7 +1,6 @@
 {
     "debug" : false, 
     "use_spreadsheet" : false,
-    "service_credentials" : "client_secret.json", 
 
     "bot_id" : "af781dba5ada4096ebfb401fb7",
     "listening_port" : 2200
