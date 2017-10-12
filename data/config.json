@@ -1,5 +1,4 @@
 {
-
     "debug" : false, 
     "use_spreadsheet" : false,
     "service_credentials" : "client_secret.json", 
